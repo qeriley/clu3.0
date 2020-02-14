@@ -46,4 +46,4 @@ clu3.0 NOTATION
     clu sends 'Days since our last "Tron Real" nonsense: 0'
   if msg includes 'you're epic'
     clu gives you some grid juice
-  clu welcomes new users by saying "Welcome to the Grid"
+  clu welcomes new users by saying 'Welcome to the Grid' and mentions them
