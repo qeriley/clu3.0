@@ -13,6 +13,8 @@ clu3.0 NOTATION
     'morning clu'    'hello clu'
     'afternoon clu'    'hey clu'
     'evening clu'    'hewwo cwu'
+  if msg includes 'nice to meet you, clu'
+    clu sends 'It's a pleasure to meet you too, User.'
   if msg includes 'love you clu' OR 'clu i love you'
     clu chooses 1 of 5 responses
   if msg includes 'clu sux'
