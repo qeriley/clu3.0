@@ -41,9 +41,10 @@ clu3.0 NOTATION
 >CLU ANSWERS QUESTIONS BEGINNING WITH 'bit' WITH BIT EMOTES
 >CLU ANSWERS TO 'penis' WITH 'Haha, penis.'
 >CLU WILL SAY ANYTHING WITH 'clu say' AT THE BEGINNING
->CLU ANSWERS QUESTIONS BEGINNING WITH 'clu yes or no'
+>CLU ANSWERS QUESTIONS BEGINNING WITH 'clu yes or no' OR 'clu can i'
   if msg is 'tron real'
     clu sends 'Days since our last "Tron Real" nonsense: 0'
   if msg includes 'you're epic'
     clu gives you some grid juice
   clu welcomes new users by saying 'Welcome to the Grid' and mentions them
+  if you need help just say "clu help"
