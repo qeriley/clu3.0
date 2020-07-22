@@ -1,4 +1,5 @@
 clu3.0 NOTATION 
+  if you need help just say 'clu help'
 >ALL COMMANDS IGNORE CASE UNLESS SPEFICIED
   if msg includes 'perfect system'
     clu sends '*Yeah??*'
@@ -48,5 +49,6 @@ clu3.0 NOTATION
     clu gives you some grid juice
   if msg includes 'orange me'
     clu asks for your disc
+  if msg includes 'rectify me'
+    clu asks for your disc
   clu welcomes new users by saying 'Welcome to the Grid' and mentions them
-  if you need help just say 'clu help'
