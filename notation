@@ -3,7 +3,7 @@ clu3.0 NOTATION
   if msg includes 'perfect system'
     clu sends '*Yeah??*'
   if msg includes 'cwu pwease'
-    clu sends 'I am disgusted...'
+    clu sends 'Hello, you crime...'
   if msg includes 'imperfect'
     clu sends unyeah
   if msg includes 'coup time'
@@ -46,5 +46,7 @@ clu3.0 NOTATION
     clu sends 'Days since our last "Tron Real" nonsense: 0'
   if msg includes 'you're epic'
     clu gives you some grid juice
+  if msg includes 'orange me'
+    clu asks for your disc
   clu welcomes new users by saying 'Welcome to the Grid' and mentions them
-  if you need help just say "clu help"
+  if you need help just say 'clu help'
