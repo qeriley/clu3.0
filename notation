@@ -22,7 +22,6 @@ clu3.0 NOTATION
     clu chooses 1 of 3 responses
   if msg includes 'balls'
     clu chooses 'Haha, balls.' or the balls gif
->CLU DOES CALL AND RESPONSE WITH THE GRID SPEECH
   if msg includes '[FLYNN / TRON] lives'
     clu sends '[FLYNN / TRON] is dead.'
   if msg includes 'release rinzler'
@@ -52,3 +51,10 @@ clu3.0 NOTATION
   if msg includes 'rectify me'
     clu asks for your disc
   clu welcomes new users by saying 'Welcome to the Grid' and mentions them
+  
+>CLU DOES CALL AND RESPONSE WITH THE GRID SPEECH:
+  The Grid.
+  I tried to picture clusters of information as they moved through the computer.
+  Ships? Motorcycles?
+  I kept dreaming of a world I thought I'd never see.
+  One day,
